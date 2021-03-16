@@ -1,8 +1,8 @@
 # Web-scraping
 
-## Youtube Scraping
+## Youtube Scraping List
 ### 1. :star2:Youtube Top Music charts
-- Clone: https://github.com/swethakallam/Scapping-Youtube-top-music-Charts
+- https://github.com/swethakallam/Scapping-Youtube-top-music-Charts
 - selenium, requests, BeautifulSoup
 - url: https://charts.youtube.com/charts/TopSongs/us/
 - Trigger Download Button Per Page(Week).
